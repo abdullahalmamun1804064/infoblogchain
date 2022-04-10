@@ -1,0 +1,5 @@
+.app__dots{
+  display: flex;
+  padding:  2rem;
+  justify-content: flex-end;
+}

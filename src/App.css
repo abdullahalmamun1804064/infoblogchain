@@ -1,0 +1,14 @@
+.section__padding {
+  padding: 4rem 6rem;
+}
+
+.flex__center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app__bg {
+  background: linear-gradient( to left,var(--color-blue), var(--color-deep-blue)) 
+}
+
